@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="mailto:yeon1673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **choyeonje/choyeonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
