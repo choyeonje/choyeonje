@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0079D7&height=180&section=header)
 Hi there 👋
 
+<!--
 <a href="mailto:yeon1673@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="instagram.com/choyeonnnje" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+-->
 
 <!--
 **choyeonje/choyeonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
